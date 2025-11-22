@@ -1,6 +1,8 @@
-# Google Messages for Mac - Ultra-Optimized Native Wrapper
+# Google Gemini for Mac - Ultra-Optimized Native Wrapper
 
-A blazingly fast, memory-efficient native wrapper for messages.google.com, specifically optimized for Apple Silicon Macs. Built with Rust and Tauri 2.0 for unparalleled performance.
+A blazingly fast, memory-efficient native wrapper for gemini.google.com, specifically optimized for Apple Silicon Macs. Built with Rust and Tauri 2.0 for unparalleled performance.
+
+This project is based on the [Google Messages wrapper by anongecko](https://github.com/anongecko/Google-Messages-Silicon), credit where credit is due!
 
 ## 🚀 Performance Metrics
 
@@ -36,14 +38,14 @@ A blazingly fast, memory-efficient native wrapper for messages.google.com, speci
 
 ## 💻 Installation
 
-1.  Download the latest `Google-Messages-for-Mac.dmg` file from the [**GitHub Releases**](https://github.com/your-username/your-repo/releases) page.
-2.  Open the `.dmg` file and drag the **Google Messages** app into your `Applications` folder.
+1.  Download the latest `Gemini-for-Mac.dmg` file from the [**GitHub Releases**](https://github.com/sebauer/gemini-silicon/releases) page.
+2.  Open the `.dmg` file and drag the **Gemini** app into your `Applications` folder.
 
 ### **Important First-Time Setup**
 
 Because this app is distributed for free outside the Mac App Store, you'll need to manually approve it the first time you open it.
 
-1.  Right-click (or `Ctrl`-click) the **Google Messages** app icon in your `Applications` folder.
+1.  Right-click (or `Ctrl`-click) the **Gemini** app icon in your `Applications` folder.
 2.  Select **Open** from the menu.
 3.  A final warning will pop up. Click the **Open** button to run the app.
 
